@@ -1,3 +1,3 @@
 # hello-world
-Practice repository...
-This is an example commit change.
+
+This repository was initially created when I created my GitHub account.
