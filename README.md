@@ -1,4 +1,4 @@
-# hello-world
+# Hello World
 
 This repository contains the famous "Hello, World" function in Python, Go, and C.
 
